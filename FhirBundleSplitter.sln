@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirBundleSplitter.Core.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirBundleSplitter.Model", "FhirBundleSplitter.Model\FhirBundleSplitter.Model.csproj", "{2AABF5C2-6E34-4186-9EDD-935E23DD3015}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirBundleSplitter.Data", "FhirBundleSplitter.Data\FhirBundleSplitter.Data.csproj", "{BB3FF02C-5EA5-4B1C-A261-4A8B2EBBD3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirBundleSplitter.Data.Model", "FhirBundleSplitter.Data.Model\FhirBundleSplitter.Data.Model.csproj", "{26693AD6-69AD-4FCF-87ED-F2D19F22572F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{2AABF5C2-6E34-4186-9EDD-935E23DD3015}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AABF5C2-6E34-4186-9EDD-935E23DD3015}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AABF5C2-6E34-4186-9EDD-935E23DD3015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3FF02C-5EA5-4B1C-A261-4A8B2EBBD3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3FF02C-5EA5-4B1C-A261-4A8B2EBBD3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3FF02C-5EA5-4B1C-A261-4A8B2EBBD3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3FF02C-5EA5-4B1C-A261-4A8B2EBBD3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26693AD6-69AD-4FCF-87ED-F2D19F22572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26693AD6-69AD-4FCF-87ED-F2D19F22572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26693AD6-69AD-4FCF-87ED-F2D19F22572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26693AD6-69AD-4FCF-87ED-F2D19F22572F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
